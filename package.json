@@ -1,0 +1,12 @@
+{
+  "name": "nitro-plug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "nitropack": "^2.4.1"
+  },
+  "scripts": {
+    "dev":"nitro dev"
+  }
+}
